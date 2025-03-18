@@ -13,8 +13,13 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
+| [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
+## Array
+|  |
+| ------- |
+| [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
 <!---LeetCode Topics End-->

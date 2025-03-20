@@ -2,10 +2,10 @@ class Solution {
 public:
 
     int helper(int i, vector<int>& coins, int T, vector<vector<int>>& dp) {
-    if(T==0){
-        dp[i][T]=0;
-        return dp[i][T];
-    }
+    // if(T==0){
+    //     dp[i][T]=0;
+    //     return dp[i][T];
+    // }
     if(i==0)
     {
         if(T%coins[i]==0)

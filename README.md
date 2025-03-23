@@ -32,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kashyap-komal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kashyap-komal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->

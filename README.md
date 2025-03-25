@@ -16,6 +16,7 @@
 | [0322-coin-change](https://github.com/kashyap-komal/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
 | [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
+| [3737-paint-house-iv](https://github.com/kashyap-komal/leetcode/tree/master/3737-paint-house-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
+| [3737-paint-house-iv](https://github.com/kashyap-komal/leetcode/tree/master/3737-paint-house-iv) |
 ## Two Pointers
 |  |
 | ------- |

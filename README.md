@@ -15,6 +15,7 @@
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/kashyap-komal/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/1250-longest-common-subsequence) |
 | [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
 | [3737-paint-house-iv](https://github.com/kashyap-komal/leetcode/tree/master/3737-paint-house-iv) |
@@ -69,5 +70,6 @@
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->

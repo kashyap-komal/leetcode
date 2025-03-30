@@ -12,6 +12,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kashyap-komal/leetcode/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/kashyap-komal/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kashyap-komal/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kashyap-komal/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/1250-longest-common-subsequence) |

@@ -6,6 +6,7 @@
  */
 var reduce = function(nums, fn, init) {
     let ans=init;
+    //we can use forEach,map as well as manual for loop
     nums.map(num=>{
         ans=fn(ans,num)
     })

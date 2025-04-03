@@ -12,6 +12,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kashyap-komal/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kashyap-komal/leetcode/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
@@ -45,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -74,10 +76,15 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kashyap-komal/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kashyap-komal/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kashyap-komal/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

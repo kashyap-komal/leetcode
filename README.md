@@ -15,6 +15,7 @@
 | [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kashyap-komal/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kashyap-komal/leetcode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kashyap-komal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/kashyap-komal/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
@@ -31,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kashyap-komal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/kashyap-komal/leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |

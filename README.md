@@ -59,6 +59,7 @@
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kashyap-komal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
@@ -96,6 +97,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kashyap-komal/leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->

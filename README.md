@@ -11,6 +11,7 @@
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/kashyap-komal/leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/kashyap-komal/leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/kashyap-komal/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/kashyap-komal/leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Recursion
 |  |
 | ------- |

@@ -3,16 +3,16 @@
  * @return {Function}
  */
 function memoize(fn) {
-    const cache={};
+    const cache={};//stores previosly computed res
     return function(...args) {
-        const key=JSON.stringify(args);
+        const key=JSON.stringify(args); //converts arguments to striing key
         if(key in cache)
         {
-            return cache[key];
+            return cache[key]; //check if it already in cache then resturn cached res
         }
-        const res=fn.apply(this,args);
-        cache[key]=res;
-        return res;
+        const res=fn.apply(this,args);    //call original function with args
+        cache[key]=res; //store res in cache
+        return res; //return cache;/
         
     }
 }

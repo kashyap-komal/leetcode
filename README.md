@@ -230,12 +230,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kashyap-komal/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kashyap-komal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashyap-komal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashyap-komal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/kashyap-komal/leetcode/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
 | ------- |

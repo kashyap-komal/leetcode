@@ -15,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/kashyap-komal/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/kashyap-komal/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Dynamic Programming

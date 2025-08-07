@@ -69,6 +69,7 @@
 | [0733-flood-fill](https://github.com/kashyap-komal/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-komal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -116,6 +117,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-komal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Backtracking
 |  |
@@ -271,6 +273,7 @@
 | [0733-flood-fill](https://github.com/kashyap-komal/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-komal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Topological Sort
 |  |

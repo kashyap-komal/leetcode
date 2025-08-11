@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
+| [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-komal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
 | [3737-paint-house-iv](https://github.com/kashyap-komal/leetcode/tree/master/3737-paint-house-iv) |
@@ -119,6 +121,7 @@
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-komal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kashyap-komal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -209,6 +213,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,6 +263,7 @@
 | [0801-is-graph-bipartite](https://github.com/kashyap-komal/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -275,6 +281,7 @@
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-komal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |

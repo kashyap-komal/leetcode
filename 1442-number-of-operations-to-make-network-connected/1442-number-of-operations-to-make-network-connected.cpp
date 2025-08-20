@@ -50,12 +50,12 @@ public:
              else
              ds.unionBysize(u,v);
         }
-        int nc=0;
+        int nc=0; //no of connected components
         for(int i=0;i<n;i++)
         {
             if(ds.parent[i]==i)nc++;
         }
-        int an=nc-1;
+        int an=nc-1; //egse as no of connected compoenents -1
         if(cextra>=an)return an;
 
         return -1;

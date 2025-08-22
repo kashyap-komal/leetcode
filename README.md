@@ -9,6 +9,7 @@
 | [0127-word-ladder](https://github.com/kashyap-komal/leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-komal/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
+| [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-komal/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -68,6 +69,7 @@
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/kashyap-komal/leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kashyap-komal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kashyap-komal/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/kashyap-komal/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Breadth-First Search
@@ -115,6 +118,7 @@
 | [0542-01-matrix](https://github.com/kashyap-komal/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kashyap-komal/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kashyap-komal/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-komal/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -157,6 +161,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-komal/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kashyap-komal/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/kashyap-komal/leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
@@ -211,6 +216,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kashyap-komal/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kashyap-komal/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-komal/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -266,6 +272,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/kashyap-komal/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/kashyap-komal/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-komal/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-komal/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |

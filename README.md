@@ -231,6 +231,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-komal/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
+| [1300-critical-connections-in-a-network](https://github.com/kashyap-komal/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kashyap-komal/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -297,6 +298,7 @@
 | [0547-number-of-provinces](https://github.com/kashyap-komal/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-komal/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-komal/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/kashyap-komal/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kashyap-komal/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
@@ -324,4 +326,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kashyap-komal/leetcode/tree/master/0292-nim-game) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/kashyap-komal/leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@
 | [0127-word-ladder](https://github.com/kashyap-komal/leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-komal/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-komal/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -52,6 +53,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kashyap-komal/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-komal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-komal/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Array
@@ -72,6 +74,7 @@
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/kashyap-komal/leetcode/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kashyap-komal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kashyap-komal/leetcode/tree/master/0733-flood-fill) |
@@ -98,6 +101,7 @@
 | [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashyap-komal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kashyap-komal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sorting
 |  |
@@ -105,6 +109,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-komal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/kashyap-komal/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -153,6 +158,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/kashyap-komal/leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Linked List

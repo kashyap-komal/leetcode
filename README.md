@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kashyap-komal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/kashyap-komal/leetcode/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -180,6 +181,7 @@
 | [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kashyap-komal/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kashyap-komal/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kashyap-komal/leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/kashyap-komal/leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-komal/leetcode/tree/master/0208-implement-trie-prefix-tree) |

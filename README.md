@@ -55,6 +55,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kashyap-komal/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-komal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-komal/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kashyap-komal/leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-komal/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -99,6 +100,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kashyap-komal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/kashyap-komal/leetcode/tree/master/0165-compare-version-numbers) |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-komal/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-komal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-komal/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/kashyap-komal/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
@@ -294,6 +297,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-komal/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-komal/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kashyap-komal/leetcode/tree/master/0355-design-twitter) |
 ## Trie
 |  |
@@ -361,4 +365,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kashyap-komal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-komal/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

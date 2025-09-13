@@ -380,4 +380,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kashyap-komal/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/kashyap-komal/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

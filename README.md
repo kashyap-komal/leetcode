@@ -100,6 +100,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashyap-komal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kashyap-komal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/kashyap-komal/leetcode/tree/master/0165-compare-version-numbers) |
@@ -185,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashyap-komal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kashyap-komal/leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/kashyap-komal/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kashyap-komal/leetcode/tree/master/0072-edit-distance) |
@@ -385,4 +387,8 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/kashyap-komal/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/kashyap-komal/leetcode/tree/master/0183-customers-who-never-order) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashyap-komal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

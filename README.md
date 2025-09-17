@@ -195,6 +195,7 @@
 | [0127-word-ladder](https://github.com/kashyap-komal/leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/kashyap-komal/leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-komal/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kashyap-komal/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
@@ -391,4 +392,13 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashyap-komal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

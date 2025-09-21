@@ -203,6 +203,7 @@
 | [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/kashyap-komal/leetcode/tree/master/1508-longest-happy-prefix) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/kashyap-komal/leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Recursion
 |  |
@@ -397,14 +398,17 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashyap-komal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/kashyap-komal/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/kashyap-komal/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/kashyap-komal/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Sliding Window
 |  |
 | ------- |

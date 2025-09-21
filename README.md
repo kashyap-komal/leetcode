@@ -72,6 +72,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kashyap-komal/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/kashyap-komal/leetcode/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kashyap-komal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-komal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kashyap-komal/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -165,6 +166,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kashyap-komal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-komal/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -403,4 +405,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0214-shortest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

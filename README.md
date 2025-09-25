@@ -97,6 +97,7 @@
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
 | [3737-paint-house-iv](https://github.com/kashyap-komal/leetcode/tree/master/3737-paint-house-iv) |
@@ -118,6 +119,7 @@
 | [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kashyap-komal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/kashyap-komal/leetcode/tree/master/0876-hand-of-straights) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0876-hand-of-straights](https://github.com/kashyap-komal/leetcode/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-komal/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-komal/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -417,8 +421,10 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->

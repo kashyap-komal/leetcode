@@ -85,6 +85,7 @@
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/kashyap-komal/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/kashyap-komal/leetcode/tree/master/0542-01-matrix) |
+| [0611-valid-triangle-number](https://github.com/kashyap-komal/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kashyap-komal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
@@ -111,6 +112,7 @@
 | [0165-compare-version-numbers](https://github.com/kashyap-komal/leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/kashyap-komal/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/kashyap-komal/leetcode/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashyap-komal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/kashyap-komal/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kashyap-komal/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/kashyap-komal/leetcode/tree/master/0876-hand-of-straights) |
@@ -130,6 +133,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kashyap-komal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/kashyap-komal/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/kashyap-komal/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kashyap-komal/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kashyap-komal/leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/kashyap-komal/leetcode/tree/master/0876-hand-of-straights) |
@@ -176,6 +180,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kashyap-komal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-komal/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/kashyap-komal/leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-komal/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |

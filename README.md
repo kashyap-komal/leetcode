@@ -104,6 +104,7 @@
 | [1306-minimum-absolute-difference](https://github.com/kashyap-komal/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kashyap-komal/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-komal/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/kashyap-komal/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kashyap-komal/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |

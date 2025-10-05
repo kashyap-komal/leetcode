@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kashyap-komal/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kashyap-komal/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/kashyap-komal/leetcode/tree/master/0292-nim-game) |
@@ -79,6 +80,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kashyap-komal/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kashyap-komal/leetcode/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kashyap-komal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/kashyap-komal/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-komal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/kashyap-komal/leetcode/tree/master/0283-move-zeroes) |
@@ -120,6 +122,7 @@
 | [0088-merge-sorted-array](https://github.com/kashyap-komal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kashyap-komal/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/kashyap-komal/leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/kashyap-komal/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kashyap-komal/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/kashyap-komal/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kashyap-komal/leetcode/tree/master/0455-assign-cookies) |

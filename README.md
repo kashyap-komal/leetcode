@@ -114,6 +114,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kashyap-komal/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3654-minimum-array-sum](https://github.com/kashyap-komal/leetcode/tree/master/3654-minimum-array-sum) |
 | [3737-paint-house-iv](https://github.com/kashyap-komal/leetcode/tree/master/3737-paint-house-iv) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kashyap-komal/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -454,10 +455,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashyap-komal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kashyap-komal/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kashyap-komal/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Simulation
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kashyap-komal/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kashyap-komal/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |

@@ -101,6 +101,7 @@
 | [0794-swim-in-rising-water](https://github.com/kashyap-komal/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kashyap-komal/leetcode/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/kashyap-komal/leetcode/tree/master/0876-hand-of-straights) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/kashyap-komal/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/kashyap-komal/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kashyap-komal/leetcode/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kashyap-komal/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -329,6 +330,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kashyap-komal/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kashyap-komal/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/kashyap-komal/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
 | ------- |

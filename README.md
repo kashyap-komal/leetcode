@@ -28,6 +28,7 @@
 | [0264-ugly-number-ii](https://github.com/kashyap-komal/leetcode/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/kashyap-komal/leetcode/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/kashyap-komal/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/kashyap-komal/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kashyap-komal/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashyap-komal/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
